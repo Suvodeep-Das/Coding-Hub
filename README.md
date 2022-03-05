@@ -1,3 +1,3 @@
 # Coding Hub
 
-<img align='center' src="<iframe src="https://giphy.com/embed/fwbZnTftCXVocKzfxR" width="480" height="340" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PLCnext-plcnext-phoenixcontact-plcnexttechnology-fwbZnTftCXVocKzfxR">via GIPHY</a></p>"
+<img align='center' src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e475yywfnqzi6igetmujtrtkkipa7abmcix6msibclc&rid=giphy.gif&ct=g" width="230">
