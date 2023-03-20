@@ -7,6 +7,8 @@ In this repo, you can find/submit various coding questions that Computer Science
 4. Data Science
 5. Object Oriented Programming
 6. Compiler Design
+7. Artificial intelligence and Deep Learning
+8. Cloud and IoT
 
 <img align='center' src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e475yywfnqzi6igetmujtrtkkipa7abmcix6msibclc&rid=giphy.gif&ct=g" width="500">
 
