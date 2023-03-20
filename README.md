@@ -1,5 +1,13 @@
 # Coding Hub
 
+In this repo, you can find/submit various coding questions that Computer Science students solve during their university days. The subjects that are covered here are
+1. DSA
+2. Operating Systems
+3. Machine Learning
+4. Data Science
+5. Object Oriented Programming
+6. Compiler Design
+
 <img align='center' src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e475yywfnqzi6igetmujtrtkkipa7abmcix6msibclc&rid=giphy.gif&ct=g" width="500">
 
 
